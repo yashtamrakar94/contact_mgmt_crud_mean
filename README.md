@@ -6,9 +6,6 @@
 
 > contact management system - implementation of CRUD operation using MEAN stack.
 
-## 👀 demo
-![](demo/contact_mean.gif)
-
 ## 🛠 usage
 
 ### setting up back-end
